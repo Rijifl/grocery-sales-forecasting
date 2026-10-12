@@ -2,5 +2,6 @@ data/
 *.zip
 *.parquet
 __pycache__/
+.ipynb_checkpoints/
 .DS_Store
 .idea

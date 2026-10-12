@@ -1,0 +1,12 @@
+# Developed on Python 3.11 (pandas 2.3, XGBoost 3.1).
+pandas
+numpy
+pyarrow
+scikit-learn
+xgboost
+lightgbm
+matplotlib
+seaborn
+tqdm
+jupyter
+kaggle
